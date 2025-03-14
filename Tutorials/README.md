@@ -1,5 +1,5 @@
 # Arduino-introduction
 
-These are some samples of code and images from my experience with Youtube Arduino tutorials.
+On this section you can check easy works with Arduino kit.
 
-Feel free to use whatever you like.
+There are a little explanation on each work and a list of needed materials.
