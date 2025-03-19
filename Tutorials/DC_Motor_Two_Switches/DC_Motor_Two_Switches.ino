@@ -1,4 +1,4 @@
-int pinSpeed = 13;
+int pinSpeed = 10; // It has to be in a PWM pin
 int dir1 = 12;
 int dir2 = 11;
 int mSpeed = 0;
