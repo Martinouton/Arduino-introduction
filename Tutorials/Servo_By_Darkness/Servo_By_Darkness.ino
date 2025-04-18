@@ -1,5 +1,5 @@
 #include <Servo.h>
-int servoPin = 7;
+int servoPin = 8;
 int readPin = A0;
 int val;
 int dt = 300;
